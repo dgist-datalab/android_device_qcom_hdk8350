@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "HDK8350ResOverlay",
+    sdk_version: "current",
+    product_specific: true,
+}
