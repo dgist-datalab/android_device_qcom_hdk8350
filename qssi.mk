@@ -246,7 +246,8 @@ PRODUCT_COMPATIBLE_PROPERTY_OVERRIDE := true
 
 PRODUCT_PACKAGES += \
     HDK8350ResOverlay \
-    HDK8350SystemUIOverlay
+    HDK8350SystemUIOverlay \
+    HDK8350SettingsProviderOverlay
 
 #Enable vndk-sp Libraries
 PRODUCT_PACKAGES += vndk_package
